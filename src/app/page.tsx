@@ -21,7 +21,7 @@ export default function Home() {
     </div>
     {/* image */}
     <div className=" mx-auto mt-7 items-center pl-[500px]">
-       <img src="/male.jpg" alt="logo" width={300} height={600} className=" w-lg h-95  object-contain rounded-t-full " />
+       <img src="/male.jpg" alt="logo design" width={300} height={600} className=" w-lg h-95  object-contain rounded-t-full " />
     </div>
     {/* end */}
     
@@ -37,7 +37,7 @@ export default function Home() {
 
     
       <div className="flex gap-1  md:flex-row flex-col  pt-10  ">
-        <Image src="/male.jpg" alt='logo' width={500}  height={500} className="md:pl-40 p-5 "></Image>
+        <Image src="/male.jpg" alt='logos full' width={500}  height={500} className="md:pl-40 p-5 "></Image>
         <div className="  md:pl-40 md:pr-10 md:w-1/2 ">
         
         <p className="pt-5 text-lg p-2 text-teal-500  ">I look forward to bringing my strong creative, technical, and analytical skills to Full-Stack Development with developing and delivering user-centric applications and solutions. Throughout my career, I have been recognized as a professional who is focused on finding solutions and is capable of designing and developing cutting-edge applications using cutting-edge technologies.
