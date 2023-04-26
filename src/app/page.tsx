@@ -7,7 +7,7 @@ import {TiTickOutline} from 'react-icons/Ti';
 
 export default function Home() {
   return (
-    <div className="bg-[url('/769.jpg')] bg-no-repeat bg-cover mt-15 mx-auto ">
+    <div className="bg-[url('/pattern-01.jpg')] bg-no-repeat bg-cover mt-15 mx-auto ">
     <div className=" text-center pt-6 py-10">
       <h3 className="text-white  pr-20 font-semibold pt-10">Hello I'm </h3>
       <h1 className="text-white  pr-20 font-bold text-4xl">Adil</h1>
